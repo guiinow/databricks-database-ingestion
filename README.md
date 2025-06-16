@@ -29,6 +29,8 @@ As fontes de dados são:
 
 ## 🏗️ Arquitetura da Solução
 
+![Arquitetura](arquitetura.jpg)
+
 ### Banco de Dados SQL Server
 
 - A conexão é estabelecida via JDBC.
